@@ -1,2 +1,3 @@
 # Collage-Khojo
-This a java Application which is developed in Android Studio, Basically, this application will help to the student and their parents to search the best future collage as per thre critera in Maharashtra.
+This a Java based native Android Application which is developed with using Android Studio, 
+<br> Basically, this application will help the student and their parents to find the best future collage in Maharashtra as per thre requirements.
